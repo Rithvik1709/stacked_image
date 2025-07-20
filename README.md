@@ -2,15 +2,6 @@
 
 A lightweight Python/Jupyter notebook project demonstrating the stacking of multiple images (e.g., through blending, overlay, or grid arrangement). It includes a demo notebook and a sample image set for experimentation.
 
-##  Repository Structure
-
-stacked_image/
-├── images/
-│ └── ... # Sample input images for stacking
-├── mcp.ipynb # Jupyter notebook demonstrating stacking techniques
-├── README.md # Project overview and usage instructions
-
-
 ##  Features
 
 - Load and display multiple images from a directory
